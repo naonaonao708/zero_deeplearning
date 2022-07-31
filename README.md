@@ -7,7 +7,7 @@
 .
 ├── README.md <-Logや情報をまとめる
 ├── info
-│   └── deep-learning-from-scratch <-公式のGithub
+│    └── deep-learning-from-scratch <-公式のGithub
 ├── oreilly-978-4-87311-758-4e.pdf <-「ゼロから作るDeep LearningーーPythonで学ぶディープラーニングの理論と実装」のPDF
 └── wordbook.md <-分からない単語をまとめておく
 ```
