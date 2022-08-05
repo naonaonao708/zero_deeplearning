@@ -1,4 +1,6 @@
 # zero_deeplearning
+
+![img](./zero_deeplearning_img.jpeg)
 「ゼロから作るDeep LearningーーPythonで学ぶディープラーニングの理論と実装」の勉強ノート＆勉強日記
 
 
@@ -47,3 +49,4 @@ MINIST実装のpickleファイルの場所が不明<br>
 
 ### 20220805
 4.5学習アルゴリズムの実装　２層ニューラルネットワークのクラスの実装<br>
+chap4のディレクトリにdatasetファイルをそのままコピペした→minist_loadを使うために
