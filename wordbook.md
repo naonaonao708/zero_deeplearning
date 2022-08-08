@@ -12,3 +12,4 @@
 |確率的勾配降下法(stochastic gradient descent):SGD|無作為に選び出したデータに対して行う勾配降下法|[確率的勾配降下法 wiki](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E7%9A%84%E5%8B%BE%E9%85%8D%E9%99%8D%E4%B8%8B%E6%B3%95)|
 |ハイパーパラメータ|「重み」や「バイアス」などのパラメータとは異なり、手動によって設定されるパラメータ|[ハイパーパラメータ Wiki](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF)<br>[ハイパーパラメータとは？チューニングの手法を徹底解説（XGBoost編）](https://www.codexa.net/hyperparameter-tuning-python/)|
 |エポック数|学習において訓練データをすべて使い切った時の回数|[エポック(epoch)数とは【機械学習 / Deep Learning】](https://www.st-hakky-blog.com/entry/2017/01/17/165137)|
+|連鎖律(chain rule)|合成関数の微分についての性質であり、次のように定義される。「ある関数が合成関数で表される場合、その合成関数の微分は合成関数を構成するそれぞれの関数の微分の積によって表すことができる。」|[連鎖律 Wili](https://ja.wikipedia.org/wiki/%E9%80%A3%E9%8E%96%E5%BE%8B)<br>[合成関数の偏微分における連鎖律(チェインルール)とその証明](https://mathlandscape.com/partial-derivative-composite/)|
