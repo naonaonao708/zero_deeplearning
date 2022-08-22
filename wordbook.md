@@ -18,3 +18,4 @@
 |Batch Normalization(バッチ正規化)|インプットとなる特徴量だけを正規化するのではなく、レイヤごとにインプットを正規化する。またその際にミニバッチを単位として、ミニバッチごとに正規化を行う。|[Batch Normalizationを理解する](https://data-analytics.fun/2021/09/11/understanding-batch-normalization/)<br>[Batch Normalization原論文](https://arxiv.org/abs/1502.03167)|
 |検証データ(validation data)|ハイパーパラメータの性能を評価するために利用するデータ|[訓練・検証・テストデータの違い](https://qiita.com/masafumi330/items/f9f7ec56dfd45a30b085)|
 |ベイズ最適化(Bayesian optimization)|ブラックボックス関数の最適化に適用される|[ベイズ最適化に関するまとめ Qiita記事](https://qiita.com/Bell-frontier/items/bf6425e40b0f9273cb12)<br>[ベイス最適化入門　Qiita記事](https://qiita.com/masasora/items/cc2f10cb79f8c0a6bbaa)<br>[ベイズ最適化の原論文](https://arxiv.org/abs/1206.2944)|
+|im2col|「image to column」の略記、多次元配列を二次元配列へ可逆的に変換する。高速な行列演算ができるNumpyの恩恵を最大限に受けらるメリットがある。|[im2col徹底理解](https://qiita.com/kuroitu/items/35d7b5a4bde470f69570)|
