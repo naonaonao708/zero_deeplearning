@@ -124,3 +124,9 @@ CNNの実装
 ### 20220922
 久しぶりに再開　学会などで進められなかった<br>
 CNN実装の続き→Reli,Affine,SoftmaxwithLossの関数が認識されてない→関数を呼び込む必要がある
+
+### 20220925
+CNN実装→Layerの関数はfunc/layer.pyにあった<br>
+7.6 CNNの可視化, 7.7 代表的なCNNは軽く目を通した<br>
+7章CNN終了<br>
+
